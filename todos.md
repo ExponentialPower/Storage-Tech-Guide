@@ -1,0 +1,62 @@
+# Things to do
+---
+#### Write articles for:
+*Note: Main bullet points are the articles, secondary are possible sections within each file*
+- [ ] Lag 
+  - [X] Hoppers
+  - [X] Redstone dust
+  - [ ] Droppers
+  - [ ] Tile entites
+  - [ ] Pistons
+  - [ ] Noteblocks vs trapdoors
+  - [ ] Rails and sloped rails
+  - [ ] Light updates (torch, lamp)
+  - [ ] Repeaters; comparators; observers
+- [ ] Directional/locational contraptions
+- [ ] Hopper hash order
+- [ ] Encoded tech
+  - [ ] Pros/cons
+  - [ ] Capabilities
+  - [ ] Common types of endoding (binary, hex)
+- [ ] Tile-tick priority
+  - [ ] Uses
+- [ ] Explination of common components
+  - [ ] Box sorters
+  - [ ] Bulk storages
+  - [ ] Unstackable sorters
+  - [ ] Variable filters
+  - [ ] Box splitters
+  - [ ] Box displays
+  - [ ] Box loaders
+  - [ ] Box unloaders
+  - [ ] Multi-Item sorters
+- [ ] Tileing
+  - [ ] Common mistakes
+  - [ ] Variations in tileing
+    - [ ] 1wt
+    - [ ] 2wt
+    - [ ] 1wABt
+    - [ ] 1wMt (mirror)
+    - [ ] 1wDt (diagonal)
+    - [ ] 1wRt (rotational)
+- [ ] Tips and tricks
+  - [ ] 0-tick box breaking
+  - [ ] Dolphins
+- [ ] Testing for reliability
+  - [ ] Extreme behaviors explination
+  - [ ] Hopper counters
+  - [ ] Cycling tests
+  - [ ] Randomized input tests
+  - [ ] Irregular input tests
+
+#### Create a guide to designing and building a storage
+- [ ] Input
+  - [ ] First item type unloading
+  - [ ] Splitters then box sorters
+  - [ ] Cubic's MIS thing
+  - [ ] Spam dolphins and destroy boxes :llamaengineer:
+- [ ] Multi-item sorters
+- [ ] Chest halls
+- [ ] Bulk
+- [ ] Item transport
+- [ ] Chunkloading
